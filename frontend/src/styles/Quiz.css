@@ -1,0 +1,57 @@
+.idArea {
+  width: 100%;
+  height: 20vh;
+  margin-top: 50px;
+}
+
+.text-field-userId {
+  display: block;
+  width: 80%;
+  height: 5vh;
+  border-radius: 5px;
+  margin-left: 140px;
+  margin-top: 80px;
+  background-color: white;
+  border: none;
+  padding-left: 30px;
+  font-size: 20px;
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.text-field-userId::placeholder {
+  font-family: "Times New Roman", Times, serif;
+  color: #5b5757;
+  font-size: 20px;
+  padding-left: 30px;
+  font-weight: normal;
+}
+
+.text-field-info {
+    margin-left: 160px;
+    margin-top: 20px;
+    color: white;
+    display: block;
+}
+
+
+.text-no-question{
+    display: inline-block;
+    margin-left: 140px;
+    margin-top: 50px;
+    color: white;
+    font-size: 40px;
+    font-family: "Black Han Sans", sans-serif;
+}
+
+.text-field-no-question{
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+
